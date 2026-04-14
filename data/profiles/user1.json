@@ -1,0 +1,60 @@
+{
+  "user_id": "user1",
+  "meta": {
+    "body_mass_kg": 70.0,
+    "height_m": 1.75
+  },
+  "baseline": {
+    "speed_mean": 0.18325871763216753,
+    "speed_std": 0.26114614080298587,
+    "rom_mean": {
+      "left_knee": 4.9317779541015625,
+      "right_knee": 3.5165252685546875,
+      "left_hip": 3.74432373046875,
+      "right_hip": 4.0430450439453125,
+      "left_elbow": 75.02214050292969,
+      "right_elbow": 71.12232208251953,
+      "left_shoulder": 158.19897651672363,
+      "right_shoulder": 158.30351066589355,
+      "trunk_lean": 3.011243302846529
+    },
+    "rom_std": {
+      "left_knee": 12.598118332824043,
+      "right_knee": 18.358328920766585,
+      "left_hip": 11.85994123669182,
+      "right_hip": 17.174138252867156,
+      "left_elbow": 40.07590701363348,
+      "right_elbow": 33.93914488713068,
+      "left_shoulder": 56.50940136578749,
+      "right_shoulder": 57.671095527715934,
+      "trunk_lean": 1.868065625131194
+    },
+    "stability_mean": 0.004651903802555276,
+    "stability_std": 0.0058849990795587425,
+    "angle_mean": {
+      "left_knee": 178.14053342408877,
+      "right_knee": 177.83753849715364,
+      "left_hip": 177.64331477348793,
+      "right_hip": 176.4239375007248,
+      "left_elbow": 160.46781781364362,
+      "right_elbow": 163.4941504414455,
+      "left_shoulder": 37.90474186259898,
+      "right_shoulder": 37.35602275803747,
+      "trunk_lean": 1.0156412872769374
+    },
+    "angle_std": {
+      "left_knee": 4.569811842947633,
+      "right_knee": 7.941589975022316,
+      "left_hip": 4.254054844353783,
+      "right_hip": 7.383440634293642,
+      "left_elbow": 27.53081533248362,
+      "right_elbow": 23.033792146470795,
+      "left_shoulder": 51.875147966281645,
+      "right_shoulder": 52.07721538901878,
+      "trunk_lean": 1.5110668036739567
+    },
+    "n_frames": 3621,
+    "capture_time": 1775571206.8642173,
+    "is_ready": true
+  }
+}
